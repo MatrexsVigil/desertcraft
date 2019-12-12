@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "desertcraft:sandstoneaxeitem"
+  },
+  "pattern": [
+    "OO ",
+    "OX ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:sandstone"
+    }
+  }
+}

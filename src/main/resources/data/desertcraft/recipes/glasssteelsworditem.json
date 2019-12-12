@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "desertcraft:glasssteelsworditem"
+  },
+  "pattern": [
+    " O ",
+    " O ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "desertcraft:glasssteelingotitem"
+    }
+  }
+}

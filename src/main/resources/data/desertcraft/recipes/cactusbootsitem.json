@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "desertcraft:cactusbootsitem"
+  },
+  "pattern": [
+    "O O",
+    "O O"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "minecraft:cactus"
+    }
+  }
+}

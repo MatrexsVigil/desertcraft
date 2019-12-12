@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "desertcraft:cactussworditem"
+  },
+  "pattern": [
+    " O ",
+    " O ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:cactus"
+    }
+  }
+}

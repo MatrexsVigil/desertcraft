@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "desertcraft:glasssteel",
+    "count": 4
+  },
+  "pattern": [
+    "OOO",
+    "O O",
+    "OOO"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "desertcraft:glasssteelingotitem"
+    }
+  }
+}

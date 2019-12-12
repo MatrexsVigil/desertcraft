@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "desertcraft:sandstonehoeitem"
+  },
+  "pattern": [
+    "OO ",
+    " X ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:sandstone"
+    }
+  }
+}

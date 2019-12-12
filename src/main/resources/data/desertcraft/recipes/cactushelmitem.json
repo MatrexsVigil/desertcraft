@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "desertcraft:cactushelmitem"
+  },
+  "pattern": [
+    "OOO",
+    "O O"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "minecraft:cactus"
+    }
+  }
+}

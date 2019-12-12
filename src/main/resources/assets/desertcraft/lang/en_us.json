@@ -1,0 +1,51 @@
+{
+    "itemGroup.tabDesertcraft": "DesertCraft",
+
+    "block.desertcraft.desertplant1": "Brown Armed Cactus",
+    "block.desertcraft.desertplant2": "Brown Cactus",
+    "block.desertcraft.desertplant3": "Green Cactus",
+    "block.desertcraft.desertplant4": "Olive Cactus",
+    "block.desertcraft.desertplant5": "Olive Armed Cactus",
+    "block.desertcraft.desertplant6": "Tall Rust Shrub",
+    "block.desertcraft.desertplant7": "Short Rust Shrub",
+    "block.desertcraft.desertplant8": "Rust Grass",
+    "block.desertcraft.desertplant9": "Rust Wheat Grass",
+    "block.desertcraft.desertplant10": "Tall Tan Shrub",
+    "block.desertcraft.desertplant11": "Short Tan Shrub",
+    "block.desertcraft.desertplant12": "Tan Grass",
+    "block.desertcraft.desertplant13": "Tan Wheat Grass",
+    "block.desertcraft.desertplant14": "Brown Bush",
+    "block.desertcraft.desertplant15": "Desert White Flower",
+    "block.desertcraft.desertplant16": "Dead Sapling",
+    "block.desertcraft.desertplant17": "Yucca Bush",
+    "block.desertcraft.desertplant18": "Desert Yellow Flower",
+    "block.desertcraft.desertplant19": "Olive Root",
+    "block.desertcraft.desertplant20": "Olive Small Bush",
+
+    "block.desertcraft.glasssteel": "Glass Steel Block",
+
+    "item.desertcraft.cactusaxeitem": "Cactus Axe",
+    "item.desertcraft.cactushoeitem": "Cactus Hoe",
+    "item.desertcraft.cactuspickaxeitem": "Cactus Pickaxe",
+    "item.desertcraft.cactusshovelitem": "Cactus Shovel",
+    "item.desertcraft.cactussworditem": "Cactus Sword",
+
+    "item.desertcraft.cactushelmitem": "Cactus Helm",
+    "item.desertcraft.cactuschestitem": "Cactus Chest",
+    "item.desertcraft.cactuslegsitem": "Cactus Legs",
+    "item.desertcraft.cactusbootsitem": "Cactus Boots",
+
+    "item.desertcraft.sandstoneaxeitem": "Sandstone Axe",
+    "item.desertcraft.sandstonehoeitem": "Sandstone Hoe",
+    "item.desertcraft.sandstonepickaxeitem": "Sandstone Pickaxe",
+    "item.desertcraft.sandstoneshovelitem": "Sandstone Shovel",
+    "item.desertcraft.sandstonesworditem": "Sandstone Sword",
+
+    "item.desertcraft.glasssteelaxeitem": "Glass Steel Axe",
+    "item.desertcraft.glasssteelhoeitem": "Glass Steel Hoe",
+    "item.desertcraft.glasssteelpickaxeitem": "Glass Steel Pickaxe",
+    "item.desertcraft.glasssteelshovelitem": "Glass Steel Shovel",
+    "item.desertcraft.glasssteelsworditem": "Glass Steel Sword",
+
+    "item.desertcraft.glasssteelingotitem": "Glass Steel Ingot"
+}

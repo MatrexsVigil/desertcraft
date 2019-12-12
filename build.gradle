@@ -1,5 +1,5 @@
 // @file build.gradle
-// bonecraft mod gradle build relay (mc1.14.4)
+// desertcraft mod gradle build relay (mc1.14.4)
 buildscript {
   repositories {
     maven { url = 'https://files.minecraftforge.net/maven' }
@@ -15,9 +15,9 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
 //-----------------------------------------------------------------------------
-version = "${version_bonecraft}"
-group = "com.pam.bonecraft"
-archivesBaseName = "bonecraft-${version_minecraft}"
+version = "${version_desertcraft}"
+group = "com.pam.desertcraft"
+archivesBaseName = "desertcraft-${version_minecraft}"
  
  
 repositories {
@@ -42,7 +42,7 @@ minecraft {
       property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
       property 'forge.logging.console.level', 'debug'
       mods {
-        bonecraft {
+        desertcraft {
           source sourceSets.main
         }
       }
@@ -51,9 +51,9 @@ minecraft {
       workingDirectory project.file('run')
       property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
       property 'forge.logging.console.level', 'debug'
-      args '--mod', 'bonecraft', '--all', '--output', file('src/generated/resources/')
+      args '--mod', 'desertcraft', '--all', '--output', file('src/generated/resources/')
       mods {
-        bonecraft {
+        desertcraft {
           source sourceSets.main
         }
       }
@@ -75,11 +75,11 @@ processResources {
 jar {
   manifest {
     attributes([
-      "Specification-Title": "bonecraft",
+      "Specification-Title": "desertcraft",
       "Specification-Vendor": "pam",
       "Specification-Version": "1", // We are version 1 of ourselves
       "Implementation-Title": project.name,
-      "Implementation-Version": "${version_bonecraft}",
+      "Implementation-Version": "${version_desertcraft}",
       "Implementation-Vendor" :"pam",
       "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
     ])

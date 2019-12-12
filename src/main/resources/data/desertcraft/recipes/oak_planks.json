@@ -1,0 +1,11 @@
+{
+  "result": {
+    "item": "minecraft:oak_planks"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}
