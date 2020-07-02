@@ -1,6 +1,6 @@
 package com.pam.desertcraft.item;
 
-import net.minecraft.enchantment.Enchantment;
+import net.minecraft.enchantment.Enchantments;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.ArmorItem;
@@ -14,7 +14,7 @@ public class ItemPamCactusArmor extends ArmorItem {
 	}
 
 	public void onCreated(ItemStack ItemStack, World World, PlayerEntity PlayerEntity) {
-		ItemStack.addEnchantment(Enchantment.getEnchantmentByID(7), 1);
+		ItemStack.addEnchantment(Enchantments.THORNS, 1);
 	}
 
 }
